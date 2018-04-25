@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/A_Style Guide/00-index.htm'],s:['$','just','your'],p:[['$',8],['chat',2],['format',0],['manage',8],['public',16],['the',16]]});
